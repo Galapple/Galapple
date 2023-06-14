@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galapple
-- 👀 I’m interested in HW design
-- 🌱 I’m currently learning Electrical Engineering
+- 👀 I’m interested in logic design, and software embedded systems
+- 🌱 I’m a fresh graduated Electrical Engineer
 - 📫 You can reach me here: galapple96@gmail.com
       linkedin: https://www.linkedin.com/in/gal-apple-4236081a9/
 
