@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galapple
-- 👀 I’m interested in Chip architecture, logic design, and software embedded systems
-- 🌱 I’m a fresh graduated Electrical Engineer
+- 👀 I’m interested in logic design, software embedded systems and computer vision
+- 🌱 I’m an Electrical and Computer Engineering MSc student 
 - 📫 You can reach me here: galapple96@gmail.com
       linkedin: https://www.linkedin.com/in/gal-apple-4236081a9/
 
